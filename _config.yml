@@ -9,15 +9,14 @@
 title: Hazard Map India
 
 # Your name to show in the footer
-author: 
+author: Mansi Budamagunta
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  About: "aboutme"
+  Team:
+  All cities: 
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
