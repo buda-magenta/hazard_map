@@ -1,7 +1,7 @@
     var map = L.map(
              'mapid',
              {
-                 center: [20.5937, 78.9629],
+                 center: [23.5120, 82],
                  crs: L.CRS.EPSG3857,
                  zoom: 5,
                  zoomControl: true,
