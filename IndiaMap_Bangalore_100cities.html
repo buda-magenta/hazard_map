@@ -61,8 +61,8 @@ crossorigin=""></script>
     [12.979, 77.591],
     {"autoPan": true}
   ).addTo(map);
- marker_outbreak.bindPopup('<a href="http://www.google.com">Visit Google</a>')
- marker_outbreak.bindTooltip("Bangalore").openTooltip();
+ marker_outbreak.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/{city name}">{city as outbreak}</a>')
+ marker_outbreak.bindTooltip("Bangalore");
 
  var circle_0 = L.circle([12.305183, 76.655361], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 188032, "stroke": true, "weight": 3}).addTo(map);
 circle_0.bindTooltip("Mysore<br>rank: 1<br>hazard index: 0.047008")
