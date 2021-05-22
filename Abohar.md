@@ -415,9 +415,10 @@ circle_100.bindTooltip("Akola<br>rank: 100<br>hazard index: 0.000095")
 circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Akola">Akola</a>')
 
 </script>
+<!-- </div> -->
 </div>
-</div>
-    <div class="table">
+    
+<div class="table">
 <!-- <div style="float:left; width=50%;"> -->
 <table>
   <tr>
