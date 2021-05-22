@@ -9,7 +9,8 @@ title: "Outbreak location: Abohar"
 <div style="float:left; width:65%">
 
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
-><script>
+
+<script>
 
 var marker_outbreak = L.marker([30.145054, 74.195660],{"autoPan": true}).addTo(map); marker_outbreak.bindTooltip("Abohar").openTooltip();
 
@@ -418,7 +419,7 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Akola">
 
 
 
-<div class="t10t">
+<div id="t10t">
 <div style="float:right; width:25%">
 <table>
   <tr>
