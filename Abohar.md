@@ -2,7 +2,7 @@
 layout: page
 title: "Outbreak location: Abohar"
 ---
-<div style='float:left'>
+<div style="margin-left:15%;margin-top:5%"/>
 <div id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
 ><script>
@@ -410,10 +410,10 @@ circle_100.bindTooltip("Akola<br>rank: 100<br>hazard index: 0.000095")
 circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Akola">Akola</a>')
 
 </script>
-
+<div>
 
 <div style='float:right'>
-<table style="width:100%">
+<table style="margin-left:30%;float:top;">
   <tr>
     <th>Firstname</th>
     <th>Lastname</th>
