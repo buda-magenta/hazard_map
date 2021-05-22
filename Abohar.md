@@ -2,8 +2,8 @@
 layout: page
 title: "Outbreak location: Abohar"
 ---
-<div id="mapid">
 <div style='float:left'>
+<div id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
 ><script>
 
