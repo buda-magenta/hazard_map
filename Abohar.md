@@ -3,23 +3,6 @@ layout: page
 title: "Outbreak location: Abohar"
 ---
 
-.flex-column {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.column-item {
-  flex: 1 0 61%;  /* flex-grow, flex-shrink, flex-basis */
-  margin: 2px;
-  background-color: lightgreen;
-}
-
-.column-item:nth-of-type(4),
-.column-item:nth-of-type(5) {
-  flex-basis: 40%;
-}
-
-
 
 <div class="flex-column">
 
@@ -452,25 +435,6 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Akola">
     <td>Jackson</td>
     <td>94</td>
   </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
   </tr>
 </table>
 </div>
