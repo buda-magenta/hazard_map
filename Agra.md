@@ -7,6 +7,7 @@ title: "Outbreak location: Agra"
 ><script>
 var marker_outbreak = L.marker([27.175255, 78.009816],{"autoPan": true}).addTo(map); marker_outbreak.bindTooltip("Agra").openTooltip();
 
+
 var circle_1 = L.circle([28.651718, 77.221939], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 74310, "stroke": true, "weight": 3}).addTo(map);
 circle_1.bindTooltip("Delhi<br>rank: 1<br>hazard index: 0.074310")
 circle_1.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Delhi">Delhi</a>')
