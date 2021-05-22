@@ -6,8 +6,9 @@ title: "Outbreak location: Abohar"
 <div class="flex-column">
 
   <div class="column-item">
-  <div style="float:left; width=65%;">
+  
 <div id="mapid">
+<div style="float:left; width=65%;">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
 
 <script>
