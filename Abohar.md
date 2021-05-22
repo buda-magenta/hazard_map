@@ -28,7 +28,7 @@ title: "Outbreak location: Abohar"
 
 var marker_outbreak = L.marker([30.145054, 74.195660],{"autoPan": true}).addTo(map); marker_outbreak.bindTooltip("Abohar").openTooltip();
 
-var circle_1 = L.circle([30.179115, 75.047102], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 96483, "stroke": true, "weight": 3}).addTo(map);
+var circle_1 = L.circle([30.179115, 75.047102], {"pane": "markerPane", "color": "blue", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 96483, "stroke": true, "weight": 3}).addTo(map);
 circle_1.bindTooltip("Bathinda<br>rank: 1<br>hazard index: 0.096484")
 circle_1.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Bathinda">Bathinda</a>')
 
