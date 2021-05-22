@@ -421,7 +421,7 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Akola">
 
 
 <div id="t10t">
-<div style="float:right; width:-10%">
+<div style="float:right; width:0%">
 <table>
   <tr>
     <th>Firstname</th>
