@@ -8,7 +8,7 @@ title: "Outbreak location: Abohar"
 
 var marker_outbreak = L.marker([30.145054, 74.195660],{"autoPan": true}).addTo(map); marker_outbreak.bindTooltip("Abohar").openTooltip();
 
-var circle_1 = L.circle([30.179115, 75.047102], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 96483, "stroke": true, "weight": 3}).addTo(map);
+var circle_1 = L.circle([30.179115, 75.047102], {"pane": "markerPane", "color": "blue", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 96483, "stroke": true, "weight": 3}).addTo(map);
 circle_1.bindTooltip("Bathinda<br>rank: 1<br>hazard index: 0.096484")
 circle_1.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Bathinda">Bathinda</a>')
 
@@ -407,6 +407,25 @@ circle_99.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Sikar">S
 var circle_100 = L.circle([20.761862, 77.192172], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 95, "stroke": true, "weight": 3}).addTo(map);
 circle_100.bindTooltip("Akola<br>rank: 100<br>hazard index: 0.000095")
 circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Akola">Akola</a>')
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+
 
 </script>
 </div>
