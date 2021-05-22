@@ -9,13 +9,13 @@
 title: Hazard Map India
 
 # Your name to show in the footer
-author: Mansi Budamagunta
+author: Supported by a special MATRICS grant MSC/2020/000122 given by SERB, Govt. of India, INSPIRE, DST Govt. of India and IISER Pune
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About: "about"
-  Team:
+  Team: "team"
   Data:
 
 # --- Logo --- #

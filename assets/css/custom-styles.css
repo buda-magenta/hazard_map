@@ -18,4 +18,22 @@ nav .navbar.navbar-expand-xl.navbar-light.fixed-top.navbar-custom.top-nav-regula
 
 header .container-md .row .page-heading{
   height: 10rem;
+  padding: 2rem 2rem;
+}
+
+header .container-md{
+  max-width: 100vw;
+}
+
+footer .container-md{
+  max-width: 100vw;
+}
+
+header .no-img .container-md .row .page-heading{
+  height: 5rem;
+  padding: 1rem 1rem;
+}
+
+header-section.has-img .page-heading h1 {
+  font-size: 3.125rem;
 }

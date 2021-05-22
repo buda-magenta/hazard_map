@@ -60,8 +60,9 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 6.25rem;
+  /* max-width: 6.25rem; */
   margin: 1rem auto;
+  width: min(80vh, 100%);
   border-width: 0.25rem;
   border-color: inherit;
   border-radius: 0.1875rem;
@@ -367,6 +368,16 @@ img {
 }
 
 /* --- Footer --- */
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  /* padding: 0.1875rem; */
+  background-color: #f5f5f5;
+  /* border-top: 1px solid #eeeeee; */
+  text-align: center;
+}
 
 footer {
   padding: 0;
@@ -695,7 +706,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 @media (min-width: 1200px) {
   .intro-header {
-    margin-top: 8.125rem;
+    margin-top: 5.6875rem;
   }
   .intro-header.big-img {
     margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
@@ -705,6 +716,9 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 2rem 0;
   }
   .intro-header .page-heading h1 {
+    font-size: 3.125rem;
+  }
+  .intro-header.big-img .page-heading h1{
     font-size: 5rem;
   }
   .intro-header .post-heading h1 {
