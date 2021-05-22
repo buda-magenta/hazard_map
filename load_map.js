@@ -1,3 +1,4 @@
+<div style='float:left>
     var map = L.map(
              'mapid',
              {
@@ -35,3 +36,4 @@
       });
     }
   });
+<div>
