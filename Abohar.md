@@ -2,70 +2,11 @@
 layout: page
 title: "Outbreak location: Abohar"
 ---
-#wrapper {
-  margin: 0 auto;
-  width: 100%;
-}
 
-#panel{
- float: left;
-  width: 100%;
-  height:50px;
-background-color: #175B81;
-color:white;
-}
-
-#map {
-  float: left;
-  width: 80%;
-  height:600px;
-}
-
-.sidebar {
-  float: left;
-  width: 20%;
-  height:600px;
-   background-color: white;
-   color: #175B81;
-}
-<div id="wrapper">
-	<div id="panel"><span class="p2">Demo</span> </div>
-  <div id="map">  </div>
-  
-  <div class="sidebar">
-<p style="text-align:center; font-size: 24px; color:#175B81; font-weight:bold; "> Baseball</p>	 
-			<table  style="width:90%; ">
-			<tr>
-			<td id='pict' ALIGN='center'; >	</td>
-			<td id='pict2' ALIGN='center';>	</td>
-			</tr>
-			</table></br> </br>
-			
-			<table  style="width:90%">
-			  <tr>
-              <th align="left">League</th>
-              <td id='f1'></td>
-              </tr> <tr>
-              <th align="left">Team</th>
-              <td id='f2'></td></tr>
-              <tr>
-			 <th align="left">Address</th>
-              <td id='f3'></td>
-              </tr> <tr>
-			  <th align="left">Stadium</th>
-              <td id='f4'></td>
-              </tr> <tr>
-              <th align="left">Capacity</th>
-              <td id='f5'></td></tr>
-              <tr>
-			  <th align="left">Website</th>
-              <td id='f6'><a href="#"></a></td>
-               </table>
-  </div>
 <div class="flex-column">
 
   <div class="column-item">
-
+<div id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
 
 <script>
@@ -474,7 +415,7 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Akola">
 
 </script>
 </div>
-
+</div>
 
 <div class="column-item">
 <table>
