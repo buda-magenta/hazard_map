@@ -8,6 +8,14 @@
   max-width: max(var(--mapsize), 100vw);
 }
 
-.row {
-  width: 100%;
+footer .container-md.beautiful-jekyll-footer{
+  height: 5rem;
+  overflow: hidden;
+  padding: 1rem;}
+
+nav .navbar.navbar-expand-xl.navbar-light.fixed-top.navbar-custom.top-nav-regular{
+  height: 5rem;}
+
+header .container-md .row .page-heading{
+  height: 10rem;
 }
