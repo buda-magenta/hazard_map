@@ -5,7 +5,7 @@
 #mapid {
   position: relative;
   height: var(--mapsize);
-  max-width: max(var(--mapsize), 100vw);
+  max-width: max(var(--mapsize), 200vw);
 }
 
 footer .container-md.beautiful-jekyll-footer{
