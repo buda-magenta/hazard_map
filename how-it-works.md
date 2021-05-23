@@ -10,13 +10,13 @@ title: How our model works
   <div class="mySlides">
     <div class="numbertext">1 / 5</div>
     <img src="https://buda-magenta.github.io/hazard_map/1.jpg" style="width:100%">
-    <div class="text">People are susceptible to the infection. They get recovered after getting infected.</div>
+    <div class="text">People are susceptible to getting infected. They get recovered after being infected for some time.</div>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 5</div>
     <img src="https://buda-magenta.github.io/hazard_map/2.jpg" style="width:100%">
-    <div class="text">The infection spreads within a city from person to person through proximity</div>
+    <div class="text">The infection spreads within a city from person to person through physical proximity.</div>
   </div>
 
   <div class="mySlides">
