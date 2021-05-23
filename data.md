@@ -3,6 +3,10 @@ layout: page
 title: Data
 ---
 
+<div id="links-img">
+ <img src="https://buda-magenta.github.io/hazard_map/Network_500_links_thickness.png" alt="Italian Trulli">
+</div>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;margin:0px auto;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
@@ -84,5 +88,5 @@ title: Data
 </table>
 
 <p align="center">
-A few properties of the network used in our analysis are shown above in the table. There are three modes of transport we consider - air, rail, and road. 
+A few properties of the network used in our analysis are shown above in the table. There are three modes of transport we consider - air, rail, and road.
 </p>
