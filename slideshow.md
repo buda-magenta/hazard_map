@@ -9,19 +9,19 @@ title: How our model works
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="1.jpg" style="width:100%">
+    <img src="https://buda-magenta.github.io/hazard_map/1.jpg" style="width:100%">
     <div class="text">People are susceptible to the infection. They get recovered after getting infected.</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="2.jpg" style="width:100%">
+    <img src="https://buda-magenta.github.io/hazard_map/2.jpg" style="width:100%">
     <div class="text">The infection spreads within a city from person to person through proximity</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="3.jpg" style="width:100%">
+    <img src="https://buda-magenta.github.io/hazard_map/3.jpg" style="width:100%">
     <div class="text">The infection also spreads from city to city because people travel using air, road, or rail as mode of transport.</div>
   </div>
 
