@@ -10,19 +10,19 @@ title: How our model works
   <div class="mySlides">
     <div class="numbertext">1 / 5</div>
     <img src="https://buda-magenta.github.io/hazard_map/1.jpg" style="width:100%">
-    <div class="text">People are susceptible to getting infected. They get recovered after being infected for some time.</div>
+    <div class="text">People are susceptible to getting infected. Infected people recover after some characteristic time.</div>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 5</div>
     <img src="https://buda-magenta.github.io/hazard_map/2.jpg" style="width:100%">
-    <div class="text">The infection spreads within a city from person to person through physical proximity.</div>
+    <div class="text">The infection spreads within a city from person to person through physical proximity. Infected people get recovered after some characteristic time.</div>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 5</div>
     <img src="https://buda-magenta.github.io/hazard_map/3.jpg" style="width:100%">
-    <div class="text">The infection also spreads from city to city because people travel using air, road, or rail as mode of transport.</div>
+    <div class="text">The infection also spreads from city to city because people travel using air, road, or rail as mode of transport. The blue and yellow coloured arrows denote the traffic between various cities.</div>
   </div>
 
   <div class="mySlides">
