@@ -7,6 +7,9 @@ title: Data
  <img src="https://buda-magenta.github.io/hazard_map/Network_500_links_thickness.png" alt="Italian Trulli">
 </div>
 
+In the above image, lines represent the connections between cities and their thickness indicates its relative importance – the thicker the line, the more people travel in that route.
+To avoid clutter, this figure shows only the top 500 of the 23224 undirected connections in the network.
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;margin:0px auto;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
