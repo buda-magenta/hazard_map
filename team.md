@@ -11,4 +11,4 @@ Dr. Sachin Jain
 
 <a href="https://www.researchgate.net/profile/Onkar-Sadekar"> Onkar Sadekar </a>
 
-Mansi Budamagunta
+<a href="https://buda-magenta.github.io/"> Mansi Budamagunta </a>
