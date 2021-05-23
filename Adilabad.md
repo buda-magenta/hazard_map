@@ -4,7 +4,9 @@ title: "Outbreak location: Adilabad"
 ---
 <div id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
-><script>
+
+<script>
+
 var marker_outbreak = L.marker([19.500000, 78.500000],{"autoPan": true}).addTo(map); marker_outbreak.bindTooltip("Adilabad").openTooltip();
 
 var circle_1 = L.circle([19.169335, 77.311013], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 194862, "stroke": true, "weight": 3}).addTo(map);
