@@ -7,31 +7,31 @@ title: How our model works
 <div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
+  <div class="mySlides">
     <div class="numbertext">1 / 5</div>
     <img src="https://buda-magenta.github.io/hazard_map/1.jpg" style="width:100%">
     <div class="text">People are susceptible to the infection. They get recovered after getting infected.</div>
   </div>
 
-  <div class="mySlides fade">
+  <div class="mySlides">
     <div class="numbertext">2 / 5</div>
     <img src="https://buda-magenta.github.io/hazard_map/2.jpg" style="width:100%">
     <div class="text">The infection spreads within a city from person to person through proximity</div>
   </div>
 
-  <div class="mySlides fade">
+  <div class="mySlides">
     <div class="numbertext">3 / 5</div>
     <img src="https://buda-magenta.github.io/hazard_map/3.jpg" style="width:100%">
     <div class="text">The infection also spreads from city to city because people travel using air, road, or rail as mode of transport.</div>
   </div>
 
-  <div class="mySlides fade">
+  <div class="mySlides">
     <div class="numbertext">4 / 5</div>
     <img src="https://buda-magenta.github.io/hazard_map/4.jpg" style="width:100%">
     <div class="text">The Data for the three modes of transport -- air, rail, and road was collected/estimated through various methods.</div>
   </div>
 
-  <div class="mySlides fade">
+  <div class="mySlides">
     <div class="numbertext">5 / 5</div>
     <img src="https://buda-magenta.github.io/hazard_map/5.jpg" style="width:100%">
     <div class="text">The shorter it takes to cross the threshold of active cases, more is the associated risk. Higher the risk, lower the hazard rank, and bigger the red circle radius indicating higher hazard value.</div>
@@ -64,10 +64,10 @@ title: How our model works
   margin: auto;
 }
 
-<!-- /* Hide the images by default */
+/* Hide the images by default */
 .mySlides {
   display: none;
-} -->
+}
 
 /* Next & previous buttons */
 .prev, .next {
@@ -99,7 +99,7 @@ title: How our model works
 /* Caption text */
 .text {
   color: black;
-  font-size: 15px;
+  font-size: 25px;
   padding: 8px 12px;
   position: relative;
   bottom: 8px;
@@ -135,9 +135,9 @@ title: How our model works
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
+  -webkit-animation-duration: 1s;
   animation-name: fade;
-  animation-duration: 1.5s;
+  animation-duration: 1s;
 }
 
 @-webkit-keyframes fade {
