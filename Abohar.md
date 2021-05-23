@@ -3,7 +3,7 @@ layout: page
 title: "Outbreak location: Abohar"
 ---
 <div style="width: 100%; overflow: auto;">
-<div style="width: 60%; float: left;">
+<div style="width: 80%; float: left;">
 <div id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
 
@@ -411,40 +411,55 @@ circle_100.bindTooltip("Akola<br>rank: 100<br>hazard index: 0.000095")
 circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Akola">Akola</a>')
 </script>
 </div>
-</div><table>
+</div>
+
+<div style="width: 20%; float: right;">
+<table>
 <tr>
 <th>Rank</th>
 <th>City</th>
-</tr><tr>
+</tr>
+
+<tr>
 <td>1</td>
 <td>Bathinda</td>
-</tr><tr>
+</tr>
+<tr>
 <td>2</td>
 <td>Ganganagar</td>
-</tr><tr>
+</tr>
+<tr>
 <td>3</td>
 <td>Delhi</td>
-</tr><tr>
+</tr>
+<tr>
 <td>4</td>
 <td>Hanumangarh</td>
-</tr><tr>
+</tr>
+<tr>
 <td>5</td>
 <td>Patiala</td>
-</tr><tr>
+</tr>
+<tr>
 <td>6</td>
 <td>Firozpur</td>
-</tr><tr>
+</tr>
+<tr>
 <td>7</td>
 <td>Ludhiana</td>
-</tr><tr>
+</tr>
+<tr>
 <td>8</td>
 <td>Jodhpur</td>
-</tr><tr>
+</tr>
+<tr>
 <td>9</td>
 <td>Bikaner</td>
-</tr><tr>
+</tr>
+<tr>
 <td>10</td>
 <td>Hisar</td>
-</tr></table>
+</tr>
+</table>
 </div>
 </div>
