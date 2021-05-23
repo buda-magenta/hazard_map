@@ -476,5 +476,5 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Alwar">
 </div>
 
 
-<p align="center"> The above map shows the top 100 at most risk cities when the outbreak location is Saharanpur. You can hover over any city to see the corresponding rank and the hazard index. The size of the red circle is proportional to the corresponding relative hazard. You may also click on any city to see that particular city's hazard map. Finally, you can also see the list of top 10 cities at risk on side.  Click <a href="https://buda-magenta.github.io/hazard_map/">here</a> to go back to the home page.
+<p align="center">This hazard map shows top-100 cities that are at most risk if an infectious disease breaks out at Saharanpur. The size of red circle indicates the relative magnitude of risk. Bigger the circle, more the risk. The table on the side highlights the list of top-10 cities that are at most risk. Smaller the rank, more the risk. Thus, rank 3 is more at risk compared to rank 4, and so on.You can also click on any city to make that city an outbreak location. You will get a new hazard map with the chosen city/town as outbreak location.
 </p>

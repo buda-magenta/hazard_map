@@ -1,0 +1,10 @@
+Main page caption :
+
+This map shows 446 cities/towns in India with a population of more than 1 lakh. Hover the mouse over any red dot to get its average hazard rank. Click on it, and you can make that city/town as the outbreak location for an infectious disease. This will take you to the hazard map with the chosen outbreak location. You can get <more details here>. Average hazard rank indicates the relative risk faced by a city/town if no information is available about outbreak of infection. Smaller the rank, more the risk. Thus, rank 3 is more at risk compared to rank 4, and so on.
+
+
+Caption for hazard map page :
+
+This hazard map shows top-100 cities that are at most risk if an infectious disease breaks out at XXXXXX. The size of red circle indicates the relative magnitude of risk. Bigger the circle, more the risk. The table on the side highlights the list of top-10 cities that are at most risk. Smaller the rank, more the risk. Thus, rank 3 is more at risk compared to rank 4, and so on.
+
+You can also click on any city to make that city an outbreak location. You will get a new hazard map with the chosen city/town as outbreak location.
