@@ -474,3 +474,7 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Akola">
 </table>
 </div>
 </div>
+
+
+<p> The above map shows the top 100 at most risk cities when the outbreak location is Abohar. We can also see the list of top 10 cities at risk on side in the table. You can click on any city here to see the situation when that city is the outbreak location. Click {LINK FOR HOME PAGE}{here} to go back to the home page.
+</p>
