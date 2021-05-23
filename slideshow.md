@@ -1,5 +1,7 @@
-<!DOCTYPE html>
-<html>
+---
+layout: page
+title: How our model works
+---
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
@@ -167,6 +169,3 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-
-
-</html>

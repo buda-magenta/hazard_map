@@ -3,6 +3,12 @@ layout: page
 title: Data
 ---
 
+We will provide more data used in the model soon.
+
+<hr>
+
+<h3 align="center"> Mobility at a glance </h3>
+
 <div id="links-img">
  <img src="https://buda-magenta.github.io/hazard_map/Network_500_links_thickness.png" alt="Italian Trulli">
 </div>
@@ -39,42 +45,28 @@ To avoid clutter, this figure shows only the top 500 of the 23224 undirected con
 </thead>
 <tbody>
   <tr>
-    <td class="tg-eiv9">Number of Nodes</td>
+    <td class="tg-eiv9">Number of Cities (Nodes)</td>
     <td class="tg-ibxp">85</td>
     <td class="tg-ibxp">435</td>
     <td class="tg-ibxp">446</td>
     <td class="tg-ibxp">446</td>
   </tr>
   <tr>
-    <td class="tg-2tiz">Number of Edges</td>
+    <td class="tg-2tiz">Number of Connections (Edges)</td>
     <td class="tg-v76b">1182</td>
     <td class="tg-v76b">41594</td>
     <td class="tg-v76b">9128</td>
     <td class="tg-v76b">46448</td>
   </tr>
   <tr>
-    <td class="tg-eiv9">Average Degree</td>
+    <td class="tg-eiv9">Average number of Connections (Average degree)</td>
     <td class="tg-ibxp">13</td>
     <td class="tg-ibxp">95</td>
     <td class="tg-ibxp">20</td>
     <td class="tg-ibxp">104</td>
   </tr>
   <tr>
-    <td class="tg-2tiz">Route Symmetry Index</td>
-    <td class="tg-v76b">1</td>
-    <td class="tg-v76b">0.9875</td>
-    <td class="tg-v76b">1</td>
-    <td class="tg-v76b">0.9878</td>
-  </tr>
-  <tr>
-    <td class="tg-eiv9">Locality of Mobility</td>
-    <td class="tg-ibxp">Same</td>
-    <td class="tg-ibxp">Different</td>
-    <td class="tg-ibxp">Same</td>
-    <td class="tg-ibxp">Different</td>
-  </tr>
-  <tr>
-    <td class="tg-2tiz">Passengers/day</td>
+    <td class="tg-2tiz">Number of Passengers per day</td>
     <td class="tg-v76b">7.5 Lakhs</td>
     <td class="tg-v76b">88 Lakhs</td>
     <td class="tg-v76b">25 Lakhs</td>
@@ -91,5 +83,6 @@ To avoid clutter, this figure shows only the top 500 of the 23224 undirected con
 </table>
 
 <p align="center">
-A few properties of the network used in our analysis are shown above in the table. There are three modes of transport we consider - air, rail, and road.
+A few properties of the network used in our analysis are shown above in the table. There are three modes of transport we consider - air, rail, and road. You can find more information at 'arxiv link'
 </p>
+
