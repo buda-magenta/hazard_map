@@ -2,9 +2,12 @@
 layout: page
 title: "Outbreak location: Tezpur"
 ---
+<div style="width: 100%; overflow: auto;">
+<div style="width: 75%; float: left;">
 <div id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
-><script>
+
+<script>
 var marker_outbreak = L.marker([26.616957, 92.765007],{"autoPan": true}).addTo(map); marker_outbreak.bindTooltip("Tezpur").openTooltip();
 
 var circle_1 = L.circle([26.180598, 91.753943], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 191680, "stroke": true, "weight": 3}).addTo(map);
@@ -408,3 +411,70 @@ circle_100.bindTooltip("Surat<br>rank: 100<br>hazard index: 0.000028")
 circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Surat">Surat</a>')
 </script>
 </div>
+</div>
+
+
+<div style="width: 20%; float: right;">
+<table>
+<tr>
+<th>Rank</th>
+<th>City</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td>Guwahati</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Silchar</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Chandan Nagar</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>Jorhat</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>Shillong</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>Dimapur</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Nagaon</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>Dibrugarh</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>Kolkata</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>Delhi</td>
+</tr>
+
+</table>
+</div>
+</div>
+
+
+<p align="center"> The above map shows the top 100 at most risk cities when the outbreak location is Tezpur. You can hover over any city to see the corresponding rank and the hazard index. You may also click on any city to see the situation when that city is the outbreak location. Finally, you can also see the list of top 10 cities at risk on side.  Click <a href="https://buda-magenta.github.io/hazard_map/">here</a> to go back to the home page.
+</p>

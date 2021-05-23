@@ -2,9 +2,12 @@
 layout: page
 title: "Outbreak location: Khanna"
 ---
+<div style="width: 100%; overflow: auto;">
+<div style="width: 75%; float: left;">
 <div id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
-><script>
+
+<script>
 var marker_outbreak = L.marker([25.565691, 80.063489],{"autoPan": true}).addTo(map); marker_outbreak.bindTooltip("Khanna").openTooltip();
 
 var circle_1 = L.circle([25.531031, 78.652689], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 91382, "stroke": true, "weight": 3}).addTo(map);
@@ -408,3 +411,70 @@ circle_100.bindTooltip("Ujjain<br>rank: 100<br>hazard index: 0.000100")
 circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Ujjain">Ujjain</a>')
 </script>
 </div>
+</div>
+
+
+<div style="width: 20%; float: right;">
+<table>
+<tr>
+<th>Rank</th>
+<th>City</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td>Jhansi</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Ludhiana</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Lucknow</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>Kanpur</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>Jalandhar</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>Amritsar</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Allahabad</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>Delhi</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>Saharanpur</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>Jammu</td>
+</tr>
+
+</table>
+</div>
+</div>
+
+
+<p align="center"> The above map shows the top 100 at most risk cities when the outbreak location is Khanna. You can hover over any city to see the corresponding rank and the hazard index. You may also click on any city to see the situation when that city is the outbreak location. Finally, you can also see the list of top 10 cities at risk on side.  Click <a href="https://buda-magenta.github.io/hazard_map/">here</a> to go back to the home page.
+</p>

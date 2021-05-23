@@ -2,9 +2,12 @@
 layout: page
 title: "Outbreak location: Sehore"
 ---
+<div style="width: 100%; overflow: auto;">
+<div style="width: 75%; float: left;">
 <div id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
-><script>
+
+<script>
 var marker_outbreak = L.marker([23.115688, 77.066239],{"autoPan": true}).addTo(map); marker_outbreak.bindTooltip("Sehore").openTooltip();
 
 var circle_1 = L.circle([23.258486, 77.401989], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 126875, "stroke": true, "weight": 3}).addTo(map);
@@ -408,3 +411,70 @@ circle_100.bindTooltip("Beawar<br>rank: 100<br>hazard index: 0.000033")
 circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Beawar">Beawar</a>')
 </script>
 </div>
+</div>
+
+
+<div style="width: 20%; float: right;">
+<table>
+<tr>
+<th>Rank</th>
+<th>City</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td>Bhopal</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Indore</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Ujjain</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>Dewas</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>Sagar</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>Shivpuri</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Khandwa</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>Guna</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>Vidisha</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>Jabalpur</td>
+</tr>
+
+</table>
+</div>
+</div>
+
+
+<p align="center"> The above map shows the top 100 at most risk cities when the outbreak location is Sehore. You can hover over any city to see the corresponding rank and the hazard index. You may also click on any city to see the situation when that city is the outbreak location. Finally, you can also see the list of top 10 cities at risk on side.  Click <a href="https://buda-magenta.github.io/hazard_map/">here</a> to go back to the home page.
+</p>
