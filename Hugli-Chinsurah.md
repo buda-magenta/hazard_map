@@ -423,52 +423,52 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Deoghar
 
 <tr>
 <td>1</td>
-<td>Kolkata</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td>Barddhaman</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Barddhaman">Barddhaman</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td>Nabadwip</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Nabadwip">Nabadwip</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td>Bansberia</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Bansberia">Bansberia</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td>Bally</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Bally">Bally</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td>Serampore</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Serampore">Serampore</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td>Uttarpara</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Uttarpara">Uttarpara</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td>Bidhan Nagar</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Bidhan_Nagar">Bidhan Nagar</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td>Chandan Nagar</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Chandan_Nagar">Chandan Nagar</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td>Rishra</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Rishra">Rishra</a></td>
 </tr>
 
 </table>

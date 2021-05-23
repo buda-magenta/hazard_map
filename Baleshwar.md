@@ -423,52 +423,52 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Gudivad
 
 <tr>
 <td>1</td>
-<td>Baripada</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Baripada">Baripada</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td>Bhubaneswar</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Bhubaneswar">Bhubaneswar</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td>Kharagpur</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Kharagpur">Kharagpur</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td>Bhadrak</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Bhadrak">Bhadrak</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td>Cuttack</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Cuttack">Cuttack</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td>Kolkata</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td>Jamshedpur</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Jamshedpur">Jamshedpur</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td>Uluberia</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Uluberia">Uluberia</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td>Maheshtala</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Maheshtala">Maheshtala</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td>Sambalpur</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Sambalpur">Sambalpur</a></td>
 </tr>
 
 </table>

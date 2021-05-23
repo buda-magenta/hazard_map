@@ -423,52 +423,52 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Shahjah
 
 <tr>
 <td>1</td>
-<td>Hugli-Chinsurah</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Hugli-Chinsurah">Hugli-Chinsurah</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td>Dibrugarh</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Dibrugarh">Dibrugarh</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td>Kalyani</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Kalyani">Kalyani</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td>Barddhaman</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Barddhaman">Barddhaman</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td>Jorhat</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Jorhat">Jorhat</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td>Kolkata</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td>Durgapur</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Durgapur">Durgapur</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td>Nagaon</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Nagaon">Nagaon</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td>Dimapur</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Dimapur">Dimapur</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td>Tezpur</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Tezpur">Tezpur</a></td>
 </tr>
 
 </table>

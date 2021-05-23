@@ -423,52 +423,52 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Bagalko
 
 <tr>
 <td>1</td>
-<td>Pune</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Pune">Pune</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td>Nagpur</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Nagpur">Nagpur</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td>Mumbai</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Mumbai">Mumbai</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td>Ahmadnagar</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Ahmadnagar">Ahmadnagar</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td>Amravati</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Amravati">Amravati</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td>Nanded Waghala</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Nanded_Waghala">Nanded Waghala</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td>Pimpri Chinchwad</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Pimpri_Chinchwad">Pimpri Chinchwad</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td>Malegaon</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Malegaon">Malegaon</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td>Akola</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Akola">Akola</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td>Parbhani</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Parbhani">Parbhani</a></td>
 </tr>
 
 </table>

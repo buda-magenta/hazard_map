@@ -423,52 +423,52 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Jamnaga
 
 <tr>
 <td>1</td>
-<td>Tirunelveli</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Tirunelveli">Tirunelveli</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td>Coimbatore</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Coimbatore">Coimbatore</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td>Chennai</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Chennai">Chennai</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td>Tiruchirappalli</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Tiruchirappalli">Tiruchirappalli</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td>Rajapalayam</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Rajapalayam">Rajapalayam</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td>Thiruvananthapuram</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Thiruvananthapuram">Thiruvananthapuram</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td>Dindigul</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Dindigul">Dindigul</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td>Thoothukudi</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Thoothukudi">Thoothukudi</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td>Nagercoil</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Nagercoil">Nagercoil</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td>Kollam</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Kollam">Kollam</a></td>
 </tr>
 
 </table>

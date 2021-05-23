@@ -423,52 +423,52 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Titagar
 
 <tr>
 <td>1</td>
-<td>Siliguri</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Siliguri">Siliguri</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td>Purnia</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Purnia">Purnia</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td>Raiganj</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Raiganj">Raiganj</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td>Bagdogra</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Bagdogra">Bagdogra</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td>Darjeeling</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Darjeeling">Darjeeling</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td>Jalpaiguri</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Jalpaiguri">Jalpaiguri</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td>Kishanganj</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Kishanganj">Kishanganj</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td>Kolkata</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td>Saharsa</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Saharsa">Saharsa</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td>Katihar</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Katihar">Katihar</a></td>
 </tr>
 
 </table>

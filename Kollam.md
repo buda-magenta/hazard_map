@@ -423,52 +423,52 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Rajkot"
 
 <tr>
 <td>1</td>
-<td>Thiruvananthapuram</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Thiruvananthapuram">Thiruvananthapuram</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td>Thrissur</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Thrissur">Thrissur</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td>Nagercoil</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Nagercoil">Nagercoil</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td>Chennai</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Chennai">Chennai</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td>Tirunelveli</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Tirunelveli">Tirunelveli</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td>Kochi</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Kochi">Kochi</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td>Kozhikode</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Kozhikode">Kozhikode</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td>Alappuzha</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Alappuzha">Alappuzha</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td>Mumbai</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Mumbai">Mumbai</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td>Mangalore</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Mangalore">Mangalore</a></td>
 </tr>
 
 </table>

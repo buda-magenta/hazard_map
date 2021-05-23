@@ -28,7 +28,7 @@ title: How our model works
   <div class="mySlides">
     <div class="numbertext">4 / 5</div>
     <img src="https://buda-magenta.github.io/hazard_map/4.jpg" style="width:100%">
-    <div class="text">The Data for the three modes of transport -- air, rail, and road was collected/estimated through various methods.</div>
+    <div class="text">The Data for the three modes of transport - air, rail, and road was collected/estimated through various methods.</div>
   </div>
 
   <div class="mySlides">

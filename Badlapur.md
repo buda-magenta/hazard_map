@@ -423,52 +423,52 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Chandig
 
 <tr>
 <td>1</td>
-<td>Thane</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Thane">Thane</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td>Ulhas Nagar</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Ulhas_Nagar">Ulhas Nagar</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td>Ambarnath</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Ambarnath">Ambarnath</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td>Mumbai</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Mumbai">Mumbai</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td>Pune</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Pune">Pune</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td>Lucknow</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Lucknow">Lucknow</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td>Nashik</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Nashik">Nashik</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td>Vasco Da Gama</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Vasco_Da_Gama">Vasco Da Gama</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td>Varanasi</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Varanasi">Varanasi</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td>Allahabad</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Allahabad">Allahabad</a></td>
 </tr>
 
 </table>

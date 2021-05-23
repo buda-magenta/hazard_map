@@ -423,52 +423,52 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Aizawl"
 
 <tr>
 <td>1</td>
-<td>Rajkot</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Rajkot">Rajkot</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td>Hugli-Chinsurah</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Hugli-Chinsurah">Hugli-Chinsurah</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td>Chandan Nagar</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Chandan_Nagar">Chandan Nagar</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td>Jamnagar</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Jamnagar">Jamnagar</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td>Kalyani</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Kalyani">Kalyani</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td>Junagadh</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Junagadh">Junagadh</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td>Kolkata</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Kolkata">Kolkata</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td>Gandhidham</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Gandhidham">Gandhidham</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td>Surendranagar</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Surendranagar">Surendranagar</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td>Barddhaman</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Barddhaman">Barddhaman</a></td>
 </tr>
 
 </table>

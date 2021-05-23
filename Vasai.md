@@ -423,52 +423,52 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Jamshed
 
 <tr>
 <td>1</td>
-<td>Mumbai</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Mumbai">Mumbai</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td>Surat</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Surat">Surat</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td>Pune</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Pune">Pune</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td>Thane</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Thane">Thane</a></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td>Ahmedabad</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Ahmedabad">Ahmedabad</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td>Pimpri Chinchwad</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Pimpri_Chinchwad">Pimpri Chinchwad</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td>Nashik</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Nashik">Nashik</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td>Mira-Bhayandar</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Mira-Bhayandar">Mira-Bhayandar</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td>Bhiwandi</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Bhiwandi">Bhiwandi</a></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td>Vadodara</td>
+<td><a href="https://buda-magenta.github.io/hazard_map/Vadodara">Vadodara</a></td>
 </tr>
 
 </table>
