@@ -110,7 +110,7 @@ title: How our model works
 /* Number text (1/3 etc) */
 .numbertext {
   color: black;
-  font-size: 12px;
+  font-size: 20px;
   padding: 8px 12px;
   position: relative;
   top: 0;
@@ -119,8 +119,8 @@ title: How our model works
 /* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
-  height: 15px;
-  width: 15px;
+  height: 25px;
+  width: 25px;
   margin: 0 2px;
   background-color: #bbb;
   border-radius: 50%;
