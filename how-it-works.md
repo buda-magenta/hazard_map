@@ -1,5 +1,7 @@
-<!DOCTYPE html>
-<html>
+---
+layout: page
+title: How our model works
+---
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
@@ -7,32 +9,32 @@
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 5</div>
-    <img src="1.jpg" style="width:100%">
+    <img src="https://buda-magenta.github.io/hazard_map/1.jpg" style="width:100%">
     <div class="text">People are susceptible to the infection. They get recovered after getting infected.</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 5</div>
-    <img src="2.jpg" style="width:100%">
+    <img src="https://buda-magenta.github.io/hazard_map/2.jpg" style="width:100%">
     <div class="text">The infection spreads within a city from person to person through proximity</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 5</div>
-    <img src="3.jpg" style="width:100%">
+    <img src="https://buda-magenta.github.io/hazard_map/3.jpg" style="width:100%">
     <div class="text">The infection also spreads from city to city because people travel using air, road, or rail as mode of transport.</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">4 / 5</div>
-    <img src="4.jpg" style="width:100%">
-    <div class="text">The data for three modes of transport -- air, rail, and road was estimated using various methods.</div>
+    <img src="https://buda-magenta.github.io/hazard_map/4.jpg" style="width:100%">
+    <div class="text">The Data for the three modes of transport -- air, rail, and road was collected/estimated through various methods.</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">5 / 5</div>
-    <img src="5.jpg" style="width:100%">
-    <div class="text">The shorter it takes to cross the threshold of active cases, more is the hazard and correspondingly bigger radius of red circle.</div>
+    <img src="https://buda-magenta.github.io/hazard_map/5.jpg" style="width:100%">
+    <div class="text">The shorter it takes to cross the threshold of active cases, more is the associated risk. Higher the risk, lower the hazard rank, and bigger the red circle radius indicating higher hazard value.</div>
   </div>
 
   <!-- Next and previous buttons -->
@@ -46,6 +48,8 @@
   <span class="dot" onclick="currentSlide(1)"></span>
   <span class="dot" onclick="currentSlide(2)"></span>
   <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
 </div>
 
 <head>
@@ -55,15 +59,15 @@
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 700px;
+  max-width: 800px;
   position: relative;
   margin: auto;
 }
 
-/* Hide the images by default */
+<!-- /* Hide the images by default */
 .mySlides {
   display: none;
-}
+} -->
 
 /* Next & previous buttons */
 .prev, .next {
@@ -97,7 +101,7 @@
   color: black;
   font-size: 15px;
   padding: 8px 12px;
-  position: absolute;
+  position: relative;
   bottom: 8px;
   width: 100%;
   text-align: center;
@@ -108,7 +112,7 @@
   color: black;
   font-size: 12px;
   padding: 8px 12px;
-  position: absolute;
+  position: relative;
   top: 0;
 }
 
@@ -179,6 +183,3 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-
-
-</html>

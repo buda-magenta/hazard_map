@@ -1,5 +1,5 @@
 
-Welcome to the Hazard Map project carried out at the Indian Institute of Science Education and Research (IISER), Pune. 
+Welcome to the Hazard Map project carried out at the Indian Institute of Science Education and Research (IISER), Pune.
 
 This project aims to create an hazard map for India due to the spread of infectious diseases. This project was funded by a special MATRICS grant of the Science and Engineering Research Board (SERB), Government of India.
 
@@ -9,7 +9,7 @@ Suppose an infectious disease outbreak is reported in some city/town in India, w
 
 What is a hazard rank ?
 
-The Hazard rank (shown in the hazard map) indicates the risk faced by the cities/towns in India due to spreading infection. Given an outbreak location, a hazard rank is assigned to each one of the cities/towns with respect to that outbreak location. 
+The Hazard rank (shown in the hazard map) indicates the risk faced by the cities/towns in India due to spreading infection. Given an outbreak location, a hazard rank is assigned to each one of the cities/towns with respect to that outbreak location.
 
 A city/town with a lower rank has the higher risk, compared to a city/town with a higher rank. For example, with respect to some outbreak location, if Bangalore is assigned rank 5, and Hyderabad is given rank 8. Then, Bangalore is at a higher risk of getting the infection than Hyderabad. This means that Bangalore is more likely to get the infection first before Hyderabad gets it.
 
