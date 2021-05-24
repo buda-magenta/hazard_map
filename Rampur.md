@@ -2,9 +2,8 @@
 layout: page
 title: "Outbreak location: Rampur"
 ---
-<div style="width: 100%; overflow: auto;">
-<div style="width: 75%; float: left;">
-<div id="mapid">
+<div class="flex-container">
+<div class="flex-item-left" id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
 
 <script>
@@ -198,7 +197,7 @@ var circle_47 = L.circle([29.869350, 77.890212], {"pane": "markerPane", "color":
 circle_47.bindTooltip("Roorkee<br>rank: 47<br>hazard index: 0.000431")
 circle_47.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Roorkee">Roorkee</a>')
 
-var circle_48 = L.circle([28.901090, 76.580194], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 395, "stroke": true, "weight": 3}).addTo(map);
+var circle_48 = L.circle([28.901090, 76.580193], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 395, "stroke": true, "weight": 3}).addTo(map);
 circle_48.bindTooltip("Rohtak<br>rank: 48<br>hazard index: 0.000395")
 circle_48.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Rohtak">Rohtak</a>')
 
@@ -318,7 +317,7 @@ var circle_77 = L.circle([26.022697, 83.028873], {"pane": "markerPane", "color":
 circle_77.bindTooltip("Azamgarh<br>rank: 77<br>hazard index: 0.000168")
 circle_77.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Azamgarh">Azamgarh</a>')
 
-var circle_78 = L.circle([29.391275, 76.977168], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 161, "stroke": true, "weight": 3}).addTo(map);
+var circle_78 = L.circle([29.391275, 76.977167], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 161, "stroke": true, "weight": 3}).addTo(map);
 circle_78.bindTooltip("Panipat<br>rank: 78<br>hazard index: 0.000161")
 circle_78.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Panipat">Panipat</a>')
 
@@ -411,10 +410,9 @@ circle_100.bindTooltip("Bhubaneswar<br>rank: 100<br>hazard index: 0.000098")
 circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Bhubaneswar">Bhubaneswar</a>')
 </script>
 </div>
-</div>
 
 
-<div style="width: 20%; float: right;">
+<div class="flex-item-right">
 <table>
 <tr>
 <th>Rank</th>

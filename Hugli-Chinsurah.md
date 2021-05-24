@@ -2,9 +2,8 @@
 layout: page
 title: "Outbreak location: Hugli-Chinsurah"
 ---
-<div style="width: 100%; overflow: auto;">
-<div style="width: 75%; float: left;">
-<div id="mapid">
+<div class="flex-container">
+<div class="flex-item-left" id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
 
 <script>
@@ -62,7 +61,7 @@ var circle_13 = L.circle([22.794910, 88.331772], {"pane": "markerPane", "color":
 circle_13.bindTooltip("Baidyabati<br>rank: 13<br>hazard index: 0.005327")
 circle_13.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Baidyabati">Baidyabati</a>')
 
-var circle_14 = L.circle([22.974972, 88.434592], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4434, "stroke": true, "weight": 3}).addTo(map);
+var circle_14 = L.circle([22.974972, 88.434591], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4434, "stroke": true, "weight": 3}).addTo(map);
 circle_14.bindTooltip("Kalyani<br>rank: 14<br>hazard index: 0.004434")
 circle_14.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Kalyani">Kalyani</a>')
 
@@ -134,7 +133,7 @@ var circle_31 = L.circle([22.840800, 88.653500], {"pane": "markerPane", "color":
 circle_31.bindTooltip("Habra<br>rank: 31<br>hazard index: 0.001477")
 circle_31.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Habra">Habra</a>')
 
-var circle_32 = L.circle([23.405848, 88.495894], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1426, "stroke": true, "weight": 3}).addTo(map);
+var circle_32 = L.circle([23.405848, 88.495893], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1426, "stroke": true, "weight": 3}).addTo(map);
 circle_32.bindTooltip("Krishnanagar<br>rank: 32<br>hazard index: 0.001426")
 circle_32.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Krishnanagar">Krishnanagar</a>')
 
@@ -290,11 +289,11 @@ var circle_70 = L.circle([26.626484, 88.734077], {"pane": "markerPane", "color":
 circle_70.bindTooltip("Jalpaiguri<br>rank: 70<br>hazard index: 0.000298")
 circle_70.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Jalpaiguri">Jalpaiguri</a>')
 
-var circle_71 = L.circle([22.305199, 70.802833], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 270, "stroke": true, "weight": 3}).addTo(map);
+var circle_71 = L.circle([22.305199, 70.802834], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 270, "stroke": true, "weight": 3}).addTo(map);
 circle_71.bindTooltip("Rajkot<br>rank: 71<br>hazard index: 0.000270")
 circle_71.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Rajkot">Rajkot</a>')
 
-var circle_72 = L.circle([26.757792, 94.207965], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 264, "stroke": true, "weight": 3}).addTo(map);
+var circle_72 = L.circle([26.757793, 94.207965], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 264, "stroke": true, "weight": 3}).addTo(map);
 circle_72.bindTooltip("Jorhat<br>rank: 72<br>hazard index: 0.000264")
 circle_72.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Jorhat">Jorhat</a>')
 
@@ -411,10 +410,9 @@ circle_100.bindTooltip("Deoghar<br>rank: 100<br>hazard index: 0.000099")
 circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Deoghar">Deoghar</a>')
 </script>
 </div>
-</div>
 
 
-<div style="width: 20%; float: right;">
+<div class="flex-item-right">
 <table>
 <tr>
 <th>Rank</th>

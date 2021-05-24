@@ -2,13 +2,12 @@
 layout: page
 title: "Outbreak location: Burhanpur"
 ---
-<div style="width: 100%; overflow: auto;">
-<div style="width: 75%; float: left;">
-<div id="mapid">
+<div class="flex-container">
+<div class="flex-item-left" id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
 
 <script>
-var marker_outbreak = L.marker([26.269722, 82.994425],{"autoPan": true}).addTo(map); marker_outbreak.bindTooltip("Burhanpur").openTooltip();
+var marker_outbreak = L.marker([26.269721, 82.994425],{"autoPan": true}).addTo(map); marker_outbreak.bindTooltip("Burhanpur").openTooltip();
 
 var circle_1 = L.circle([20.993276, 75.839983], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 99396, "stroke": true, "weight": 3}).addTo(map);
 circle_1.bindTooltip("Bhusawal<br>rank: 1<br>hazard index: 0.099396")
@@ -222,7 +221,7 @@ var circle_53 = L.circle([21.154541, 77.644296], {"pane": "markerPane", "color":
 circle_53.bindTooltip("Amravati<br>rank: 53<br>hazard index: 0.000693")
 circle_53.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Amravati">Amravati</a>')
 
-var circle_54 = L.circle([22.305199, 70.802833], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 686, "stroke": true, "weight": 3}).addTo(map);
+var circle_54 = L.circle([22.305199, 70.802834], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 686, "stroke": true, "weight": 3}).addTo(map);
 circle_54.bindTooltip("Rajkot<br>rank: 54<br>hazard index: 0.000686")
 circle_54.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Rajkot">Rajkot</a>')
 
@@ -411,10 +410,9 @@ circle_100.bindTooltip("Faridabad<br>rank: 100<br>hazard index: 0.000108")
 circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Faridabad">Faridabad</a>')
 </script>
 </div>
-</div>
 
 
-<div style="width: 20%; float: right;">
+<div class="flex-item-right">
 <table>
 <tr>
 <th>Rank</th>

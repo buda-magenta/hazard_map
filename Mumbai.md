@@ -2,10 +2,8 @@
 layout: page
 title: "Outbreak location: Mumbai"
 ---
-
 <div class="flex-container">
-  <div class="flex-item-left" id="mapid">
-
+<div class="flex-item-left" id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
 
 <script>
@@ -163,7 +161,7 @@ var circle_38 = L.circle([20.843512, 75.525927], {"pane": "markerPane", "color":
 circle_38.bindTooltip("Jalgaon<br>rank: 38<br>hazard index: 0.001724")
 circle_38.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Jalgaon">Jalgaon</a>')
 
-var circle_39 = L.circle([11.001812, 76.962843], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1681, "stroke": true, "weight": 3}).addTo(map);
+var circle_39 = L.circle([11.001812, 76.962842], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1681, "stroke": true, "weight": 3}).addTo(map);
 circle_39.bindTooltip("Coimbatore<br>rank: 39<br>hazard index: 0.001681")
 circle_39.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Coimbatore">Coimbatore</a>')
 
@@ -171,7 +169,7 @@ var circle_40 = L.circle([19.250000, 74.750000], {"pane": "markerPane", "color":
 circle_40.bindTooltip("Ahmadnagar<br>rank: 40<br>hazard index: 0.001649")
 circle_40.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Ahmadnagar">Ahmadnagar</a>')
 
-var circle_41 = L.circle([22.305199, 70.802833], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1439, "stroke": true, "weight": 3}).addTo(map);
+var circle_41 = L.circle([22.305199, 70.802834], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1439, "stroke": true, "weight": 3}).addTo(map);
 circle_41.bindTooltip("Rajkot<br>rank: 41<br>hazard index: 0.001440")
 circle_41.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Rajkot">Rajkot</a>')
 
@@ -363,7 +361,7 @@ var circle_88 = L.circle([13.340077, 77.100621], {"pane": "markerPane", "color":
 circle_88.bindTooltip("Tumkur<br>rank: 88<br>hazard index: 0.000287")
 circle_88.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Tumkur">Tumkur</a>')
 
-var circle_89 = L.circle([26.269722, 82.994425], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 287, "stroke": true, "weight": 3}).addTo(map);
+var circle_89 = L.circle([26.269721, 82.994425], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 287, "stroke": true, "weight": 3}).addTo(map);
 circle_89.bindTooltip("Burhanpur<br>rank: 89<br>hazard index: 0.000287")
 circle_89.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Burhanpur">Burhanpur</a>')
 
@@ -375,7 +373,7 @@ var circle_91 = L.circle([23.666667, 72.500000], {"pane": "markerPane", "color":
 circle_91.bindTooltip("Mahesana<br>rank: 91<br>hazard index: 0.000258")
 circle_91.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Mahesana">Mahesana</a>')
 
-var circle_92 = L.circle([28.901090, 76.580194], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 254, "stroke": true, "weight": 3}).addTo(map);
+var circle_92 = L.circle([28.901090, 76.580193], {"pane": "markerPane", "color": "red", "fill": true, "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 254, "stroke": true, "weight": 3}).addTo(map);
 circle_92.bindTooltip("Rohtak<br>rank: 92<br>hazard index: 0.000254")
 circle_92.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Rohtak">Rohtak</a>')
 
@@ -412,6 +410,7 @@ circle_100.bindTooltip("Nagercoil<br>rank: 100<br>hazard index: 0.000209")
 circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Nagercoil">Nagercoil</a>')
 </script>
 </div>
+
 
 <div class="flex-item-right">
 <table>
@@ -473,6 +472,7 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Nagerco
 </table>
 </div>
 </div>
+
 
 <p align="left">This hazard map shows top-100 cities that are at most risk if an infectious disease breaks out at Mumbai. The size of red circle indicates the relative magnitude of risk. Bigger the circle, more the risk. The table on the side highlights the list of top-10 cities that are at most risk. Smaller the rank, more the risk. Thus, rank 3 is more at risk compared to rank 4, and so on.You can also click on any city to make that city an outbreak location. You will get a new hazard map with the chosen city/town as outbreak location.
 </p>
