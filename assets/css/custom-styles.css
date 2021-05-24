@@ -78,3 +78,9 @@ table{
 .big-img > div:nth-child(1) > div:nth-child(1) > div:nth-child(1){
   width: 100vw;
 }
+
+.logos {
+  height: 2rem;
+  padding-left: 1rem;
+  /* padding-right: 1rem; */
+}
