@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How our model works
+title: How Hazard Map Works
 ---
 
 <!-- Slideshow container -->
@@ -28,19 +28,19 @@ title: How our model works
   <div class="mySlides">
     <div class="numbertext">4 / 8</div>
     <img src="https://buda-magenta.github.io/hazard_map/4.jpg" style="width:100%">
-    <div class="text">In the next time step, there are infected cases in city A and C. People are also getting recovered in these cities.</div>
+    <div class="text">After some time, there are infected cases in city A and C. People are also getting recovered in these cities.</div>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 8</div>
     <img src="https://buda-magenta.github.io/hazard_map/5.jpg" style="width:100%">
-    <div class="text">Even though city D and city B were not connected, the infection reaches city B after some time.</div>
+    <div class="text">Even though city D and city B are not connected, the infection reaches city B after some time.</div>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 8</div>
     <img src="https://buda-magenta.github.io/hazard_map/6.jpg" style="width:100%">
-    <div class="text">Eventually, the infections has reached in all cities. The active cases in all cities has crossed the threshold. We use the first time the active cases cross the threshold as a proxy for the associated risk with that city.</div>
+    <div class="text">Eventually, the infection reaches all cities. The first time since the outbreak when the active cases cross a threshold is used as a proxy for the risk associated with that city.</div>
   </div>
 
   <div class="mySlides">
@@ -52,7 +52,7 @@ title: How our model works
   <div class="mySlides">
     <div class="numbertext">8 / 8</div>
     <img src="https://buda-magenta.github.io/hazard_map/8.jpg" style="width:100%">
-    <div class="text">Lower hazard rank means higher hazard value. Bigger red circle radius implies higher hazard value. So, higher hazard value implies higher risk and lower hazard rank.</div>
+    <div class="text"> Bigger red circle implies higher risk, while smaller red circle implies lower risk. City A has more risk than city B in the above example.</div>
   </div>
 
   <!-- Next and previous buttons -->
