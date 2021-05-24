@@ -2,7 +2,7 @@
 layout: page
 title: "Outbreak location: Mumbai"
 ---
-<div style="width: 100%; overflow: auto; display: flex">
+<div style="width: 100%; overflow: auto; display: flex; justify-content: space-around; align-items: center">
 <div style="width: 75%; float: left;">
 <div id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>

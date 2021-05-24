@@ -34,7 +34,7 @@ title: How our model works
   <div class="mySlides">
     <div class="numbertext">5 / 8</div>
     <img src="https://buda-magenta.github.io/hazard_map/5.jpg" style="width:100%">
-    <div class="text">Even though city D and city B were not connected, the infection has reached city B after some time.</div>
+    <div class="text">Even though city D and city B were not connected, the infection reaches city B after some time.</div>
   </div>
 
   <div class="mySlides">
