@@ -2,7 +2,7 @@
 layout: page
 title: "Outbreak location: Mumbai"
 ---
-<div style="width: 100%; overflow: auto;">
+<div style="width: 100%; overflow: auto; display: flex">
 <div style="width: 75%; float: left;">
 <div id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
@@ -412,7 +412,6 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Nagerco
 </script>
 </div>
 </div>
-
 
 <div style="width: 20%; float: right;">
 <table>
