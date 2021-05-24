@@ -1836,7 +1836,9 @@ cover-img: /unsplash-train.jpg
   Note that the location of some cities on the map may not be accurate.
 </p>
 
-<select onChange="window.location.href=this.value">
-  <option value="www.google.com">A</option>
-  <option value="www.aol.com">B</option>
+<label for="cities">Choose a city:</label>
+
+<select onChange="window.location.href=this.value" name="cities" id="cities">
+  <option value="/Bangalore">Bangalore/option>
+  <option value="/Mumbai">Mumbai</option>
 </select>
