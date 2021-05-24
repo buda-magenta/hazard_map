@@ -63,9 +63,15 @@ div.container-md:nth-child(3){
 
 /* Responsive layout - makes a one column-layout instead of a two-column layout */
 @-moz-document url-prefix() {
-  @media only screen and (max-width: 600px) {
+  @media screen and (max-width: 768px) {
   .flex-item-right, .flex-item-left {
     flex: 100%;
   }
+}
+}
+
+@media screen and (max-width: 768px) {
+.flex-item-right, .flex-item-left {
+  flex: 100%;
 }
 }
