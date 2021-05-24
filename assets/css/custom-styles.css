@@ -38,8 +38,10 @@ header-section.has-img .page-heading h1 {
   font-size: 2rem;
 }
 
+/* size of main container on page */
 div.container-md:nth-child(3){
   max-width: 100vw;
+  width: 90vw;
 }
 
 .flex-container {
@@ -67,10 +69,6 @@ div.container-md:nth-child(3){
   }
 }
 
-hr.small {
-  visibility: hidden;
-}
-
 table{
   margin: 0 auto;
 }
@@ -83,4 +81,10 @@ table{
   height: 2rem;
   padding-left: 1rem;
   /* padding-right: 1rem; */
+}
+
+footer .short-page-footer {
+  position: fixed;
+  bottom: 0;
+  background-color: #EAEAEA;
 }

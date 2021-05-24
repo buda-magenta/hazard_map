@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: short-page
 title: Team
 ---
 
@@ -14,4 +14,3 @@ title: Team
 <a href="https://buda-magenta.github.io/"> Mansi Budamagunta </a>
 
 All members are from the Physics Department of IISER Pune.
-
