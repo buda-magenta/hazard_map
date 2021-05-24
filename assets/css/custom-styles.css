@@ -18,7 +18,7 @@ nav .navbar.navbar-expand-xl.navbar-light.fixed-top.navbar-custom.top-nav-regula
 
 header .container-md .row .page-heading{
   height: 10rem;
-  padding: 2rem 2rem;
+  padding-top: 2rem 2rem;
 }
 
 header .container-md{
@@ -30,8 +30,8 @@ footer .container-md{
 }
 
 header .no-img .container-md .row .page-heading{
-  height: 3rem;
-  padding: 1rem 1rem;
+  /* height: a; */
+  padding-top: 1rem;
 }
 
 header-section.has-img .page-heading h1 {
@@ -73,11 +73,12 @@ table{
   margin: 0 auto;
 }
 
+/* Main page title */
 .big-img > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1){
   width: 80vw;
   padding-top: 4rem;
   padding-bottom: 0;
-  padding-right: 2rem;
+  padding-right: 1vw;
 }
 .big-img > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h1:nth-child(1){
   font-weight: 700;
@@ -97,4 +98,8 @@ footer .short-page-footer {
   position: fixed;
   bottom: 0;
   background-color: #EAEAEA;
+}
+
+.intro-header.no-img .container-md .page-heading{
+  height: auto !important;
 }
