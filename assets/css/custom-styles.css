@@ -37,3 +37,7 @@ header .no-img .container-md .row .page-heading{
 header-section.has-img .page-heading h1 {
   font-size: 3.125rem;
 }
+
+.container-md[role=main]{
+  max-width: 100vw;
+}
