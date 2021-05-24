@@ -3,7 +3,7 @@
 }
 
 #mapid {
-  position: relative;
+  /* position: relative; */
   height: var(--mapsize);
   max-width: max(var(--mapsize), 100vw);
 }
