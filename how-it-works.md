@@ -8,33 +8,51 @@ title: How our model works
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 5</div>
+    <div class="numbertext">1 / 8</div>
     <img src="https://buda-magenta.github.io/hazard_map/1.jpg" style="width:100%">
     <div class="text">People are susceptible to getting infected. Infected people recover after some characteristic time.</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 5</div>
+    <div class="numbertext">2 / 8</div>
     <img src="https://buda-magenta.github.io/hazard_map/2.jpg" style="width:100%">
     <div class="text">The infection spreads within a city from person to person through physical proximity. Infected people get recovered after some characteristic time.</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 5</div>
+    <div class="numbertext">3 / 8</div>
     <img src="https://buda-magenta.github.io/hazard_map/3.jpg" style="width:100%">
-    <div class="text">The infection also spreads from city to city because people travel using air, road, or rail as mode of transport. The blue and yellow coloured arrows denote the traffic between various cities.</div>
+    <div class="text">The infection also spreads from city to city because people travel using air, road, or rail as mode of transport. The blue and yellow coloured arrows denote the traffic between various cities. Initially there is only one infected case in city D.</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 5</div>
+    <div class="numbertext">4 / 8</div>
     <img src="https://buda-magenta.github.io/hazard_map/4.jpg" style="width:100%">
+    <div class="text">In the next time step, there are infected cases in city A and C. People are also getting recovered in these cities.</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 8</div>
+    <img src="https://buda-magenta.github.io/hazard_map/5.jpg" style="width:100%">
+    <div class="text">Even though city D and city B were not connected, the infection has reached city B after some time.</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">6 / 8</div>
+    <img src="https://buda-magenta.github.io/hazard_map/6.jpg" style="width:100%">
+    <div class="text">Eventually, the infections has reached in all cities. The active cases in all cities has crossed the threshold. We use the first time the active cases cross the threshold as a proxy for the associated risk with that city.</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">7 / 8</div>
+    <img src="https://buda-magenta.github.io/hazard_map/7.jpg" style="width:100%">
     <div class="text">The Data for the three modes of transport - air, rail, and road was collected/estimated through various methods.</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 5</div>
-    <img src="https://buda-magenta.github.io/hazard_map/5.jpg" style="width:100%">
-    <div class="text">The shorter it takes to cross the threshold of active cases, more is the associated risk. Higher the risk, lower the hazard rank, and bigger the red circle radius indicating higher hazard value.</div>
+    <div class="numbertext">8 / 8</div>
+    <img src="https://buda-magenta.github.io/hazard_map/8.jpg" style="width:100%">
+    <div class="text">Lower hazard rank means higher hazard value. Bigger red circle radius implies higher hazard value. So, higher hazard value implies higher risk and lower hazard rank.</div>
   </div>
 
   <!-- Next and previous buttons -->
@@ -50,6 +68,9 @@ title: How our model works
   <span class="dot" onclick="currentSlide(3)"></span>
   <span class="dot" onclick="currentSlide(4)"></span>
   <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span>
+  <span class="dot" onclick="currentSlide(8)"></span>
 </div>
 
 <head>
