@@ -7,7 +7,7 @@ title: Team
 
 <a href="http://www.iiserpune.ac.in/~sreejith/index.html"> G. J. Sreejith </a>
 
-Dr. Sachin Jain
+<a href="http://www.iiserpune.ac.in/people/faculty-details/182"> Sachin Jain </a>
 
 <a href="https://www.researchgate.net/profile/Onkar-Sadekar"> Onkar Sadekar </a>
 
