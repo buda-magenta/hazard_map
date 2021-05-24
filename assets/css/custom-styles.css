@@ -6,7 +6,6 @@
   position: relative;
   height: var(--mapsize);
   max-width: max(var(--mapsize), 100vw);
-  min-width: min(var(--mapsize), 100vw);
 }
 
 footer .container-md.beautiful-jekyll-footer{
