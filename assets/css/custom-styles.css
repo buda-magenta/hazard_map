@@ -6,7 +6,7 @@
   position: relative;
   height: var(--mapsize);
   max-width: max(var(--mapsize), 100vw);
-  padding: 10px;
+  /* padding: 10px; */
 }
 
 footer .container-md.beautiful-jekyll-footer{
