@@ -2,8 +2,8 @@
 layout: page
 title: "Outbreak location: Mumbai"
 ---
-<div style="width: 100%; overflow: auto; display: flex; justify-content: space-around; align-items: center">
-<div style="width: 75%; float: left;">
+<div style="width: 100%; display: flex; justify-content: space-around; align-items: center">
+# <div style="width: 75%; float: left;">
 <div id="mapid">
 <script src="https://buda-magenta.github.io/hazard_map/load_map.js"></script>
 
@@ -472,7 +472,7 @@ circle_100.bindPopup('<a href="https://buda-magenta.github.io/hazard_map/Nagerco
 
 </table>
 </div>
-</div>
+# </div>
 
 
 <p align="left">This hazard map shows top-100 cities that are at most risk if an infectious disease breaks out at Mumbai. The size of red circle indicates the relative magnitude of risk. Bigger the circle, more the risk. The table on the side highlights the list of top-10 cities that are at most risk. Smaller the rank, more the risk. Thus, rank 3 is more at risk compared to rank 4, and so on.You can also click on any city to make that city an outbreak location. You will get a new hazard map with the chosen city/town as outbreak location.
