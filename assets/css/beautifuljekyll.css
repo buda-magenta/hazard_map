@@ -26,8 +26,8 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 400;
   line-height: 1.1;
 }
 h1 {
@@ -61,11 +61,14 @@ blockquote p:first-child {
 }
 hr.small {
   /* max-width: 6.25rem; */
+  /* position: relative; */
   margin: 1rem auto;
+  /* margin-bottom: 1rem; */
   width: min(80vh, 100%);
   border-width: 0.25rem;
   border-color: inherit;
   border-radius: 0.1875rem;
+  padding: 1rem;
 }
 
 /* fix in-page anchors to not be behind fixed header */
@@ -663,7 +666,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 3.125rem;
+  font-size: 2rem;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
@@ -675,7 +678,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 150;
   margin: 0.625rem 0 0;
 }
 .intro-header .post-heading .post-subheading {
@@ -683,7 +686,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
-  font-weight: 400;
+  font-weight: 200;
 }
 .intro-header.big-img .page-heading hr {
   box-shadow: 1px 1px 3px #000;
@@ -716,10 +719,10 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 2rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 3.125rem;
+    font-size: 2rem;
   }
   .intro-header.big-img .page-heading h1{
-    font-size: 5rem;
+    font-size: 3rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;

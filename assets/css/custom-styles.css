@@ -9,9 +9,9 @@
 }
 
 footer .container-md.beautiful-jekyll-footer{
-  height: 5rem;
-  overflow: hidden;
-  padding: 1rem;}
+  height: auto;
+  /* overflow: hidden; */
+  padding-top: 0.5rem;}
 
 nav .navbar.navbar-expand-xl.navbar-light.fixed-top.navbar-custom.top-nav-regular{
   height: 5rem;}
@@ -30,12 +30,12 @@ footer .container-md{
 }
 
 header .no-img .container-md .row .page-heading{
-  height: 5rem;
+  height: 3rem;
   padding: 1rem 1rem;
 }
 
 header-section.has-img .page-heading h1 {
-  font-size: 3.125rem;
+  font-size: 2rem;
 }
 
 div.container-md:nth-child(3){
@@ -47,6 +47,7 @@ div.container-md:nth-child(3){
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
+  position: relative;
 }
 
 .flex-item-left {
@@ -66,6 +67,14 @@ div.container-md:nth-child(3){
   }
 }
 
+hr.small {
+  visibility: hidden;
+}
+
 table{
   margin: 0 auto;
+}
+
+.big-img > div:nth-child(1) > div:nth-child(1) > div:nth-child(1){
+  width: 100vw;
 }

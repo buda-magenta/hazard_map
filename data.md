@@ -9,7 +9,7 @@ We will provide more data used in the model soon.
 
 <h3 align="center"> Mobility at a glance </h3>
 
-<div id="links-img">
+<div id="links-img" align="center">
  <img src="https://buda-magenta.github.io/hazard_map/Network_500_links_thickness.png" alt="top 500 links of in the network">
 </div>
 
@@ -82,6 +82,4 @@ To avoid clutter, this figure shows only the top 500 of the 23224 undirected con
 </tbody>
 </table>
 
-<p align="center">
 A few properties of the network used in our analysis are shown above in the table. There are three modes of transport we consider - air, rail, and road. You can find more information at 'arxiv link'
-</p>

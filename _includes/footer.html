@@ -11,11 +11,15 @@
         </div>
       {% endif %}
       <p class="copyright text-muted">
+        Contact: <a href = "mailto:hazardmap@acads.iiserpune.ac.in">hazardmap@acads.iiserpune.ac.in</a>
+        <br>
       {% if site.author %}
         {{ site.author }}
         <!-- &nbsp;&bull;&nbsp; -->
       {% endif %}
       <!-- {{ site.time | date: '%Y' }} -->
+
+      <span></span>
 
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
@@ -30,6 +34,11 @@
           <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
         {% endif %}
       {% endif%}
+
+
+
+
+
       </p>
       {% unless site.remove-ads %}<p class="theme-by text-muted">
         Powered by
