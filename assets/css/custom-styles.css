@@ -73,8 +73,18 @@ table{
   margin: 0 auto;
 }
 
-.big-img > div:nth-child(1) > div:nth-child(1) > div:nth-child(1){
-  width: 100vw;
+.big-img > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1){
+  width: 80vw;
+  padding-top: 4rem;
+  padding-bottom: 0;
+  padding-right: 2rem;
+}
+.big-img > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h1:nth-child(1){
+  font-weight: 700;
+  padding-top: 2rem;
+  padding-bottom: 0;
+  /* font-family: Roboto, sans-serif; */
+  text-shadow: 2px 2px 1rem #000000;
 }
 
 .logos {
