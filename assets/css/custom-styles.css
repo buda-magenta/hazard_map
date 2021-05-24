@@ -6,7 +6,6 @@
   position: relative;
   height: var(--mapsize);
   max-width: max(var(--mapsize), 100vw);
-  /* padding: 10px; */
 }
 
 footer .container-md.beautiful-jekyll-footer{
@@ -47,19 +46,26 @@ div.container-md:nth-child(3){
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: space-around;
 }
 
 .flex-item-left {
-  flex: 50%;
+  flex: 80%;
+  padding: 10px;
 }
 
 .flex-item-right {
-  flex: 50%;
+  flex: 20%;
+  padding: 10px;
 }
 
 /* Responsive layout - makes a one column layout instead of a two-column layout */
-@media (max-width: 800px) {
+@media (max-width: 768px) {
   .flex-item-right, .flex-item-left {
     flex: 100%;
   }
+}
+
+table{
+  margin: 0 auto;
 }
